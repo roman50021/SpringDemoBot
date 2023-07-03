@@ -66,6 +66,13 @@
             <version>8.0.33</version>
         </dependency>
 
+        <!-- https://mvnrepository.com/artifact/com.vdurmont/emoji-java -->
+        <dependency>
+            <groupId>com.vdurmont</groupId>
+            <artifactId>emoji-java</artifactId>
+            <version>5.1.1</version>
+        </dependency>
+
 
 
     </dependencies>
